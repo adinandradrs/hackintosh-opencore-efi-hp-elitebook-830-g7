@@ -61,7 +61,7 @@ Berikut adalah fitur yang telah ditesting oleh pemilik repositori namun tidak be
 ## Catatan Instalasi dan Troubleshot
 
 Sebelum instalasi harap melakukan patching terhadap config.plist melalui generate SMBIOS. Silakan pilih model ``MacBookPro16,3`` agar terdeteksi oleh ACPI sebagai MacBook Pro 13" 2020.
-Harap diperhatikan setelah instalasi selesai harap lakukan proses akhir untuk fixing sleep seperti pada [panduan resmi](https://dortania.github.io/OpenCore-Post-Install/universal/sleep.html).
+Harap diperhatikan setelah instalasi selesai harap lakukan proses akhir untuk fixing sleep seperti pada [panduan resmi](https://dortania.github.io/OpenCore-Post-Install/universal/sleep.html) danpPada bagian pengaturan baterai, harap centang opsi "Prevent your Mac from automatically sleeping when the display is off"
 
 Atur pada BIOS :
 1. Non-aktifkan Fast Boot
