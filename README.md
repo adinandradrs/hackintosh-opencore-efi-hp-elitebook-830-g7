@@ -83,4 +83,4 @@ Pemilik repositori ini tidak akan berhasil tanpa adanya bantuan informasi dari :
 6. Forum TonyMacX86, Reddit, dan Kaskus
 7. Kantor yang telah memberikan laptop untuk dioprek
 
-Why I wrote this readme using Indonesian language? Because I am an Indonesian and I proud to talk in bahasa. Please DM if there are any issues that I could help as long relate with this repository.
+Why I wrote this readme using Indonesian language? Because I am an Indonesian and I proud to talk in bahasa. Please DM if there are any issues, maybe I could help as long relate with this repository.
