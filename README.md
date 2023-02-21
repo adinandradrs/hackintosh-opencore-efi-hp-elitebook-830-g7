@@ -44,6 +44,7 @@ Berikut adalah fitur yang telah ditesting oleh pemilik repositori dan telah berf
 - 🆗 Keyboard dan Trackpad beserta dengan Gesture
 - 🆗 2 USB 3.0
 - 🆗 2 USB-C Thunderbolt
+- 🆗 HDMI
 - 🆗 External Display beserta audio (menggunakan USB-C dock)
 - 🆗 Status Baterai
 - 🆗 Shutdown, Restart, dan Sleep
@@ -52,7 +53,6 @@ Berikut adalah fitur yang telah ditesting oleh pemilik repositori dan telah berf
 
 Berikut adalah fitur yang telah ditesting oleh pemilik repositori namun tidak berfungsi sebagaimana mestinya.
 - ⛔️ Internal Microphone (Permasalahan Intel SST)
-- ⛔️ 1 HDMI
 - ⛔️ Airdrop (aktif namun tidak dapat mendeteksi serta terdeteksi perangkat lain untuk mengirimkan dan juga menerima berkas)
 - ⛔️ Wake dari Sleep
 
@@ -60,8 +60,7 @@ Berikut adalah fitur yang telah ditesting oleh pemilik repositori namun tidak be
 
 ## Catatan Instalasi dan Troubleshot
 
-Sebelum instalasi harap melakukan patching terhadap config.plist melalui generate SMBIOS. Silakan pilih model ``MacBookPro16,3`` agar terdeteksi oleh ACPI sebagai MacBook Pro 13" 2020.
-Harap diperhatikan setelah instalasi selesai harap lakukan proses akhir untuk fixing sleep seperti pada [panduan resmi](https://dortania.github.io/OpenCore-Post-Install/universal/sleep.html) danpPada bagian pengaturan baterai, harap centang opsi "Prevent your Mac from automatically sleeping when the display is off"
+Sebelum instalasi harap melakukan patching terhadap config.plist melalui generate SMBIOS. Silakan pilih model ``MacBookPro16,3`` agar terdeteksi oleh ACPI sebagai MacBook Pro 13" 2020. Perlu diperhatikan setelah instalasi selesai untuk melakukan proses akhir yaitu fixing sleep seperti pada [panduan resmi](https://dortania.github.io/OpenCore-Post-Install/universal/sleep.html) dan pada bagian pengaturan baterai sebaiknya dicentang opsi "Prevent your Mac from automatically sleeping when the display is off"
 
 Atur pada BIOS :
 1. Non-aktifkan Fast Boot
@@ -69,7 +68,7 @@ Atur pada BIOS :
 3. Non-aktifkan Intel Platform Trust
 4. Non-aktifkan TPM pada Security
 
-Untuk mengatasi fitur microphone yang tidak berfungsi dapat menggunakan Audio USB yang tersedia pada marketplace ataupun dapat menggunakan nir kabel audio seperti AirPod atau TWS. Sedangkan untuk mengatasi fitur port HDMI yang tidak berfungsi dapat menggunakan adapter Thunderbolt to HDMI.
+Untuk mengatasi fitur microphone yang tidak berfungsi dapat menggunakan audio USB yang tersedia di marketplace ataupun dapat menggunakan nir kabel audio seperti AirPod atau TWS.
 
 ## Terimakasih
 
