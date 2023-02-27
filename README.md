@@ -1,17 +1,17 @@
 
 <a href="https://www.apple.com/macos/ventura/">
-    <img src="https://img.shields.io/badge/macOS-Monterey%2012.6.3-purple" width="212"/>
+    <img src="https://img.shields.io/badge/macOS-BigSur%2011.7.4-green" width="212"/>
 </a>
 <a href="https://github.com/acidanthera/OpenCorePkg/releases">
     <img src="https://img.shields.io/badge/OpenCore-0.8.9-9cf" width="155"/>
 </a>
 <a href="https://github.com/yusufklncc/HP-EliteBook-840-G7-Hackintosh/releases">
-    <img src="https://img.shields.io/badge/release-EFI-blue.svg" width="120"/>
+    <img src="https://img.shields.io/badge/release-EFI-green.svg" width="120"/>
 </a>
 
-# Hackintosh HP Elitebook 830 G7 macOS Monterey
+# Hackintosh HP Elitebook 830 G7 OpenCore EFI
 
-Merupakan komponen Hackintosh beserta konfigurasi OpenCore untuk instalasi **macOS Monterey pada HP Elitebook 830 G7**.
+Merupakan komponen Hackintosh beserta konfigurasi OpenCore untuk instalasi **macOS pada HP Elitebook 830 G7**.
 Harap disesuaikan dengan perangkat setiap personal meskipun memiliki seri yang sama atau kemiripan spesifikasi. 
 
 <p align="center">
@@ -34,7 +34,7 @@ Penyimpanan | SSD 512 GB nVME
 
 ## Fitur Berfungsi 👍🏽
 
-Berikut adalah fitur yang telah ditesting oleh pemilik repositori dan telah berfungsi sebagai mana fungsinya.
+Berikut adalah fitur yang telah ditesting oleh pemilik repositori dan telah berfungsi sebagaimana fungsinya.
 - 🆗 Intel UHD QE/CI dengan Graphic Control
 - 🆗 Speaker Suara dengan Sound Control
 - 🆗 Wi-Fi
@@ -51,7 +51,7 @@ Berikut adalah fitur yang telah ditesting oleh pemilik repositori dan telah berf
 
 ## Fitur Belum Berfungsi 👎🏽
 
-Berikut adalah fitur yang telah ditesting oleh pemilik repositori namun tidak berfungsi sebagaimana mestinya.
+Berikut adalah fitur yang telah ditesting oleh pemilik repositori namun tidak berfungsi sebagaimana fungsinya.
 - ⛔️ Internal Microphone (Permasalahan Intel SST)
 - ⛔️ Airdrop (aktif namun tidak dapat mendeteksi serta terdeteksi perangkat lain untuk mengirimkan dan juga menerima berkas)
 - ⛔️ Wake dari Sleep
