@@ -5,7 +5,7 @@
 <a href="https://github.com/acidanthera/OpenCorePkg/releases">
     <img src="https://img.shields.io/badge/OpenCore-0.8.9-9cf" width="155"/>
 </a>
-<a href="https://github.com/yusufklncc/HP-EliteBook-840-G7-Hackintosh/releases">
+<a href="https://github.com/adinandradrs/hackintosh-opencore-efi-hp-elitebook-830-g7">
     <img src="https://img.shields.io/badge/release-EFI-green.svg" width="120"/>
 </a>
 
