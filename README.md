@@ -44,8 +44,8 @@ Berikut adalah fitur yang telah ditesting oleh pemilik repositori dan telah berf
 - 🆗 Keyboard dan Trackpad beserta dengan Gesture
 - 🆗 2 USB 3.0
 - 🆗 2 USB-C Thunderbolt
-- 🆗 HDMI
-- 🆗 External Display beserta audio (menggunakan USB-C dock)
+- 🆗 HDMI beserta audio
+- 🆗 External display beserta audio menggunakan USB-C dock
 - 🆗 Status Baterai
 - 🆗 Shutdown, Restart, dan Sleep
 
