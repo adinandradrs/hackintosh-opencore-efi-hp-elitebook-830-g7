@@ -25,7 +25,7 @@ Hal terpenting adalah apabila terdapat ketidaksesuaian dan kegagalan perangkat a
 Umum | Spesifikasi
 :---------|:---------
 Laptop      | HP Elitebook 830 G7
-Prosesor    | Intel® Core i5-10210U 1.60 (Comet Lake)
+Prosesor    | Intel® Core i5-10210U 1.60GHz (Comet Lake)
 RAM         | 16 GB DDR4 (2x8)
 GPU         | Intel® UHD Graphics 620
 Jaringan    | Intel AX201
@@ -46,7 +46,8 @@ Berikut adalah fitur yang telah ditesting oleh pemilik repositori dan telah berf
 - 🆗 2 USB-C Thunderbolt
 - 🆗 HDMI beserta audio
 - 🆗 External display beserta audio menggunakan USB-C dock
-- 🆗 Status Baterai
+- 🆗 Touchscreen
+- 🆗 Status baterai
 - 🆗 Shutdown, Restart, dan Sleep
 
 ## Fitur Belum Berfungsi 👎🏽
