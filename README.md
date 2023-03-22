@@ -66,8 +66,7 @@ Sebelum instalasi harap melakukan patching terhadap config.plist melalui generat
 Atur pada BIOS :
 1. Non-aktifkan Fast Boot
 2. Non-aktifkan Secure Boot
-3. Non-aktifkan Intel Platform Trust
-4. Non-aktifkan TPM pada Security
+3. Non-aktifkan TPM pada Security
 
 Untuk mengatasi fitur microphone yang tidak berfungsi dapat menggunakan audio USB yang tersedia di marketplace ataupun dapat menggunakan nir kabel audio seperti AirPod atau TWS.
 
