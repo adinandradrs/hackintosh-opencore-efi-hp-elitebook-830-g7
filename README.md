@@ -1,9 +1,9 @@
 
 <a href="https://www.apple.com/macos/ventura/">
-    <img src="https://img.shields.io/badge/macOS-BigSur%2011.7.4-green" width="212"/>
+    <img src="https://img.shields.io/badge/macOS-BigSur%2011.7.8-green" width="212"/>
 </a>
 <a href="https://github.com/acidanthera/OpenCorePkg/releases">
-    <img src="https://img.shields.io/badge/OpenCore-0.8.9-9cf" width="155"/>
+    <img src="https://img.shields.io/badge/OpenCore-0.9.3-9cf" width="155"/>
 </a>
 <a href="https://github.com/adinandradrs/hackintosh-opencore-efi-hp-elitebook-830-g7">
     <img src="https://img.shields.io/badge/release-EFI-green.svg" width="120"/>
